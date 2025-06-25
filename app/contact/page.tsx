@@ -20,7 +20,7 @@ export default function ContactPage() {
           <meta name="keywords" content="event contact, support, customer care, partnership" />
           <meta property="og:title" content="Contact - Eventful Artists" />
           <meta property="og:description" content="Have questions? Contact our team for help or to collaborate." />
-          <meta property="og:image" content="/og-image-contact.png" />
+          <meta property="og:image" content="C:\Users\venka\eventful-artists\open-graphimage.jpg.png" />
           <meta property="og:url" content="https://eventful-artists-q5m2ylqez-tejasri-44s-projects.vercel.app" />
           <link rel="icon" href="/favicon.ico" />
       </Head><main className="min-h-screen bg-gradient-to-br from-purple-100 via-pink-100 to-yellow-100 py-20 px-4">

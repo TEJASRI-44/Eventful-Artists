@@ -12,7 +12,7 @@ export default function HomePage() {
       <meta name="keywords" content="event artists, singers, dancers, DJs, event booking" />
       <meta property="og:title" content="Eventful Artists - Home" />
       <meta property="og:description" content="Discover and connect with top verified performers for weddings, parties, and corporate events." />
-      <meta property="og:image" content="/og-image-home.png" />
+      <meta property="og:image" content="/C:\Users\venka\eventful-artists\open-graphimage.jpg.png" />
       <meta property="og:url" content="https://eventful-artists-q5m2ylqez-tejasri-44s-projects.vercel.app" />
       <link rel="icon" href="/favicon.ico" />
     </Head><motion.main
