@@ -30,7 +30,7 @@ export default function ArtistListingPage() {
       <meta property="og:title" content="Artist Directory - Eventful Artists" />
       <meta property="og:description" content="Explore and book top-rated performers near you." />
       <meta property="og:image" content="/og-image-artists.png" />
-      <meta property="og:url" content="https://your-domain.com/artists" />
+      <meta property="og:url" content="https://eventful-artists-q5m2ylqez-tejasri-44s-projects.vercel.app" />
       <link rel="icon" href="/favicon.ico" />
     </Head><main className="min-h-screen bg-white text-gray-900 transition-all duration-300">
         {/* Optional ThemeToggle if needed */}

@@ -62,7 +62,7 @@ export default function OnboardingForm() {
       <meta property="og:title" content="Artist Registration - Eventful Artists" />
       <meta property="og:description" content="Submit your profile and get discovered by event planners." />
       <meta property="og:image" content="/og-image-onboard.png" />
-      <meta property="og:url" content="https://your-domain.com/onboard" />
+      <meta property="og:url" content="https://eventful-artists-q5m2ylqez-tejasri-44s-projects.vercel.app" />
       <link rel="icon" href="/favicon.ico" />
     </Head><main className="min-h-screen bg-white py-14 px-6">
         <div className="max-w-2xl mx-auto bg-white border border-gray-200 rounded-3xl shadow-lg p-10">

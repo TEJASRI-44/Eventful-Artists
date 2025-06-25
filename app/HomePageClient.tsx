@@ -13,7 +13,7 @@ export default function HomePage() {
       <meta property="og:title" content="Eventful Artists - Home" />
       <meta property="og:description" content="Discover and connect with top verified performers for weddings, parties, and corporate events." />
       <meta property="og:image" content="/og-image-home.png" />
-      <meta property="og:url" content="https://your-domain.com" />
+      <meta property="og:url" content="https://eventful-artists-q5m2ylqez-tejasri-44s-projects.vercel.app" />
       <link rel="icon" href="/favicon.ico" />
     </Head><motion.main
       className="min-h-screen bg-gradient-to-br from-purple-100 via-white to-blue-100 px-4 sm:px-6 py-12"
